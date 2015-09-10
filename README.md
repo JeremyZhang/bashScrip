@@ -1,0 +1,2 @@
+# bashScrip
+bash scrip
